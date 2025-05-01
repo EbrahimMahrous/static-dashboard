@@ -2,4 +2,4 @@
 
 
 
-<img src="static-dashboard-proj.png" alt="" />
+<img src="static-dashborard-proj.png" alt="" />
